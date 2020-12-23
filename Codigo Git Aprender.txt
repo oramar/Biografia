@@ -1,0 +1,7 @@
+Iniciando curso de Git. 23 de Noviembre de 2020
+
+git init 				= 	Inicializa a git
+git add . 				= 	Agrega todo para hacer commit
+git commit -add				=	Abre vim para dar una descripcion mas exacta al commit
+git log --oneline			=	Muestra los commits creados pero con el codigo resumido
+
