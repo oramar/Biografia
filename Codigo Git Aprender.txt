@@ -13,3 +13,7 @@ git reset codigoCommit --hard			=	Elimina todos los commit creados despues del c
 
 
 Trabajando Con Ramas
+
+git branch								=	Alista todas las ramas creadas que tienes
+git branch nombreRama					= 	Crea una nueva rama con el nombre indicado
+git checkout nombreRama					=	Ir a otra rama
